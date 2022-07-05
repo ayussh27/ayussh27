@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayussh27 aka Ayussh Srivastav
 - 👀 I’m interested in coding and creating personal websites.
-- 🌱 I’m currently learning full stack web development.
+- 🌱 I’m currently full stack web developer.
 - 📫 How to reach me @SrivastavAyussh on twitter.
 
 <!---
