@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Cloud computing<br><br>👨‍💻 All of my projects are available athttps://github.com/ayussh27?tab=repositories<br><br>💬 Ask me about AWS<br><br>📫 How to reach me ayusshsrivastav064@gmail.com
+🌱 I’m currently learning Cloud computing<br><br>👨‍💻 All of my projects are available at https://github.com/ayussh27?tab=repositories<br><br>💬 Ask me about AWS<br><br>📫 How to reach me ayusshsrivastav064@gmail.com
 
 
 ## 🌐 Socials:
